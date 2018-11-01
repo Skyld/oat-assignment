@@ -56,17 +56,7 @@ $ vendor/bin/infection
 - `100%` Test Coverage
 - `100%` MSI (Mutation Score Indicator)
 
-## Implementation
-
-Key features:
-
-- **Slim 3** framework with **PHP-DI** bridge.
-- Flexible filesystem based data source handling with **League/FlySystem** library.
-- Powerful request validation with **Respect/Validation** library.
-- Separated response transformation layer with **League/Fractal** library.
-- Randomized user fixture handling in tests with **Fzaninotto/Faker** library.
-
-### How to switch between data sources?
+## How to switch between data sources?
 
 To switch between data sources just simply change the container definition of `Skyld\OatAssignment\Repository\UserRepositoryInterface`
 in the [config/definitions.php](config/definitions.php) file.
