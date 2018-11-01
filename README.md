@@ -28,7 +28,7 @@ $ docker-compose up -d
 
 ## Specification
 
-OpenAPI specification can be found at [definition/opeanpi.yaml](definition/openapi.yaml).
+OpenAPI specification can be found at [definition/openapi.yaml](definition/openapi.yaml).
 
 ## Tests
 To run full test suite:

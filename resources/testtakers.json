@@ -7,7 +7,7 @@
     "firstname":"abigail",
     "gender":"female",
     "email":"abigail.foster60@example.com",
-    "picture":"https://api.randomuser.me/0.2/portraits/women/10.jpg",
+    "picture":"https://api.randomuser.me/portraits/women/10.jpg",
     "address":"1851 saddle dr anna 69319"
   },
   {
@@ -18,7 +18,7 @@
     "firstname":"allison",
     "gender":"female",
     "email":"allison.graham70@example.com",
-    "picture":"https://api.randomuser.me/0.2/portraits/women/35.jpg",
+    "picture":"https://api.randomuser.me/portraits/women/35.jpg",
     "address":"6697 rolling green rd colorado springs 56306"
   },
   {
@@ -29,7 +29,7 @@
     "firstname":"susan",
     "gender":"female",
     "email":"susan.clark11@example.com",
-    "picture":"https://api.randomuser.me/0.2/portraits/women/33.jpg",
+    "picture":"https://api.randomuser.me/portraits/women/33.jpg",
     "address":"3627 groveland terrace ennis 70832"
   },
   {
@@ -40,7 +40,7 @@
     "firstname":"nicholas",
     "gender":"male",
     "email":"nicholas.howard84@example.com",
-    "picture":"https://api.randomuser.me/0.2/portraits/men/14.jpg",
+    "picture":"https://api.randomuser.me/portraits/men/14.jpg",
     "address":"7964 e center st van alstyne 19750"
   },
   {
@@ -51,7 +51,7 @@
     "firstname":"hannah",
     "gender":"female",
     "email":"hannah.ford29@example.com",
-    "picture":"https://api.randomuser.me/0.2/portraits/women/30.jpg",
+    "picture":"https://api.randomuser.me/portraits/women/30.jpg",
     "address":"3916 pecan acres ln salem 61414"
   },
   {
@@ -62,7 +62,7 @@
     "firstname":"genesis",
     "gender":"female",
     "email":"genesis.carter42@example.com",
-    "picture":"https://api.randomuser.me/0.2/portraits/women/35.jpg",
+    "picture":"https://api.randomuser.me/portraits/women/35.jpg",
     "address":"1493 central st grapevine 16794"
   },
   {
@@ -73,7 +73,7 @@
     "firstname":"kenzi",
     "gender":"female",
     "email":"kenzi.foster37@example.com",
-    "picture":"https://api.randomuser.me/0.2/portraits/women/23.jpg",
+    "picture":"https://api.randomuser.me/portraits/women/23.jpg",
     "address":"4204 spring st shiloh 50907"
   },
   {
@@ -84,7 +84,7 @@
     "firstname":"katie",
     "gender":"female",
     "email":"katie.wright60@example.com",
-    "picture":"https://api.randomuser.me/0.2/portraits/women/22.jpg",
+    "picture":"https://api.randomuser.me/portraits/women/22.jpg",
     "address":"7855 rolling green rd fountain valley 42328"
   },
   {
@@ -95,7 +95,7 @@
     "firstname":"gavin",
     "gender":"male",
     "email":"gavin.lee41@example.com",
-    "picture":"https://api.randomuser.me/0.2/portraits/men/3.jpg",
+    "picture":"https://api.randomuser.me/portraits/men/3.jpg",
     "address":"6401 daisy dr colorado springs 75316"
   },
   {
@@ -106,7 +106,7 @@
     "firstname":"jane",
     "gender":"female",
     "email":"jane.ross42@example.com",
-    "picture":"https://api.randomuser.me/0.2/portraits/women/5.jpg",
+    "picture":"https://api.randomuser.me/portraits/women/5.jpg",
     "address":"1979 pockrus page rd cupertino 64368"
   },
   {
@@ -117,7 +117,7 @@
     "firstname":"douglas",
     "gender":"male",
     "email":"douglas.ford43@example.com",
-    "picture":"https://api.randomuser.me/0.2/portraits/men/2.jpg",
+    "picture":"https://api.randomuser.me/portraits/men/2.jpg",
     "address":"6303 spring st joliet 11553"
   },
   {
@@ -128,7 +128,7 @@
     "firstname":"shannon",
     "gender":"female",
     "email":"shannon.rivera95@example.com",
-    "picture":"https://api.randomuser.me/0.2/portraits/women/29.jpg",
+    "picture":"https://api.randomuser.me/portraits/women/29.jpg",
     "address":"3909 railroad st rochester 78868"
   },
   {
@@ -139,7 +139,7 @@
     "firstname":"kenzi",
     "gender":"female",
     "email":"kenzi.watson58@example.com",
-    "picture":"https://api.randomuser.me/0.2/portraits/women/3.jpg",
+    "picture":"https://api.randomuser.me/portraits/women/3.jpg",
     "address":"5094 n stelling rd ironville 43693"
   },
   {
@@ -150,7 +150,7 @@
     "firstname":"isabella",
     "gender":"female",
     "email":"isabella.myers69@example.com",
-    "picture":"https://api.randomuser.me/0.2/portraits/women/10.jpg",
+    "picture":"https://api.randomuser.me/portraits/women/10.jpg",
     "address":"8883 groveland terrace cedar hill 38457"
   },
   {
@@ -161,7 +161,7 @@
     "firstname":"abigail",
     "gender":"female",
     "email":"abigail.edwards34@example.com",
-    "picture":"https://api.randomuser.me/0.2/portraits/women/4.jpg",
+    "picture":"https://api.randomuser.me/portraits/women/4.jpg",
     "address":"2840 brown terrace red bluff 47565"
   },
   {
@@ -172,7 +172,7 @@
     "firstname":"isaac",
     "gender":"male",
     "email":"isaac.cox28@example.com",
-    "picture":"https://api.randomuser.me/0.2/portraits/men/35.jpg",
+    "picture":"https://api.randomuser.me/portraits/men/35.jpg",
     "address":"6092 marsh ln fremont 78549"
   },
   {
@@ -183,7 +183,7 @@
     "firstname":"allison",
     "gender":"female",
     "email":"allison.jones81@example.com",
-    "picture":"https://api.randomuser.me/0.2/portraits/women/23.jpg",
+    "picture":"https://api.randomuser.me/portraits/women/23.jpg",
     "address":"7824 shady ln dr lousville 24000"
   },
   {
@@ -194,7 +194,7 @@
     "firstname":"ryan",
     "gender":"male",
     "email":"ryan.sanders19@example.com",
-    "picture":"https://api.randomuser.me/0.2/portraits/men/41.jpg",
+    "picture":"https://api.randomuser.me/portraits/men/41.jpg",
     "address":"6673 ash dr roanoke 14327"
   },
   {
@@ -205,7 +205,7 @@
     "firstname":"mark",
     "gender":"male",
     "email":"mark.martinez26@example.com",
-    "picture":"https://api.randomuser.me/0.2/portraits/men/44.jpg",
+    "picture":"https://api.randomuser.me/portraits/men/44.jpg",
     "address":"7244 samaritan dr stockton 71418"
   },
   {
@@ -216,7 +216,7 @@
     "firstname":"mark",
     "gender":"male",
     "email":"mark.kuhn95@example.com",
-    "picture":"https://api.randomuser.me/0.2/portraits/men/15.jpg",
+    "picture":"https://api.randomuser.me/portraits/men/15.jpg",
     "address":"5051 ranchview dr eureka 58057"
   },
   {
@@ -227,7 +227,7 @@
     "firstname":"adrian",
     "gender":"male",
     "email":"adrian.graham60@example.com",
-    "picture":"https://api.randomuser.me/0.2/portraits/men/45.jpg",
+    "picture":"https://api.randomuser.me/portraits/men/45.jpg",
     "address":"5516 washington ave ennis 63425"
   },
   {
@@ -238,7 +238,7 @@
     "firstname":"amanda",
     "gender":"female",
     "email":"amanda.patterson61@example.com",
-    "picture":"https://api.randomuser.me/0.2/portraits/women/22.jpg",
+    "picture":"https://api.randomuser.me/portraits/women/22.jpg",
     "address":"1575 e little york rd grand prairie 81870"
   },
   {
@@ -249,7 +249,7 @@
     "firstname":"elizabeth",
     "gender":"female",
     "email":"elizabeth.lee56@example.com",
-    "picture":"https://api.randomuser.me/0.2/portraits/women/28.jpg",
+    "picture":"https://api.randomuser.me/portraits/women/28.jpg",
     "address":"4956 w gray st seymour 32611"
   },
   {
@@ -260,7 +260,7 @@
     "firstname":"amanda",
     "gender":"female",
     "email":"amanda.ford21@example.com",
-    "picture":"https://api.randomuser.me/0.2/portraits/women/35.jpg",
+    "picture":"https://api.randomuser.me/portraits/women/35.jpg",
     "address":"5337 saddle dr evansville 48204"
   },
   {
@@ -271,7 +271,7 @@
     "firstname":"kay",
     "gender":"female",
     "email":"kay.perry15@example.com",
-    "picture":"https://api.randomuser.me/0.2/portraits/women/20.jpg",
+    "picture":"https://api.randomuser.me/portraits/women/20.jpg",
     "address":"1956 timber wolf trail north valley 79425"
   },
   {
@@ -282,7 +282,7 @@
     "firstname":"landon",
     "gender":"male",
     "email":"landon.miller95@example.com",
-    "picture":"https://api.randomuser.me/0.2/portraits/men/3.jpg",
+    "picture":"https://api.randomuser.me/portraits/men/3.jpg",
     "address":"5220 w belt line rd indianapolis 81440"
   },
   {
@@ -293,7 +293,7 @@
     "firstname":"susan",
     "gender":"female",
     "email":"susan.cook85@example.com",
-    "picture":"https://api.randomuser.me/0.2/portraits/women/14.jpg",
+    "picture":"https://api.randomuser.me/portraits/women/14.jpg",
     "address":"1920 adams st pittsburgh 11793"
   },
   {
@@ -304,7 +304,7 @@
     "firstname":"dylan",
     "gender":"male",
     "email":"dylan.williams12@example.com",
-    "picture":"https://api.randomuser.me/0.2/portraits/men/43.jpg",
+    "picture":"https://api.randomuser.me/portraits/men/43.jpg",
     "address":"2136 camden ave lexington 34840"
   },
   {
@@ -315,7 +315,7 @@
     "firstname":"mary",
     "gender":"female",
     "email":"mary.mitchelle36@example.com",
-    "picture":"https://api.randomuser.me/0.2/portraits/women/20.jpg",
+    "picture":"https://api.randomuser.me/portraits/women/20.jpg",
     "address":"2939 mockingbird hill wichita falls 28542"
   },
   {
@@ -326,7 +326,7 @@
     "firstname":"stephen",
     "gender":"male",
     "email":"stephen.johnson97@example.com",
-    "picture":"https://api.randomuser.me/0.2/portraits/men/20.jpg",
+    "picture":"https://api.randomuser.me/portraits/men/20.jpg",
     "address":"5344 harrison ct las vegas 43981"
   },
   {
@@ -337,7 +337,7 @@
     "firstname":"ritthy",
     "gender":"male",
     "email":"ritthy.washington73@example.com",
-    "picture":"https://api.randomuser.me/0.2/portraits/men/17.jpg",
+    "picture":"https://api.randomuser.me/portraits/men/17.jpg",
     "address":"3000 harrison ct altoona 42050"
   },
   {
@@ -348,7 +348,7 @@
     "firstname":"kim",
     "gender":"female",
     "email":"kim.sullivan91@example.com",
-    "picture":"https://api.randomuser.me/0.2/portraits/women/32.jpg",
+    "picture":"https://api.randomuser.me/portraits/women/32.jpg",
     "address":"7931 fincher rd new york 57273"
   },
   {
@@ -359,7 +359,7 @@
     "firstname":"daniel",
     "gender":"male",
     "email":"daniel.scott61@example.com",
-    "picture":"https://api.randomuser.me/0.2/portraits/men/5.jpg",
+    "picture":"https://api.randomuser.me/portraits/men/5.jpg",
     "address":"7734 central st fayetteville 15951"
   },
   {
@@ -370,7 +370,7 @@
     "firstname":"isabella",
     "gender":"female",
     "email":"isabella.kuhn58@example.com",
-    "picture":"https://api.randomuser.me/0.2/portraits/women/0.jpg",
+    "picture":"https://api.randomuser.me/portraits/women/0.jpg",
     "address":"8239 homestead rd duncanville 35822"
   },
   {
@@ -381,7 +381,7 @@
     "firstname":"lucas",
     "gender":"male",
     "email":"lucas.ford93@example.com",
-    "picture":"https://api.randomuser.me/0.2/portraits/men/35.jpg",
+    "picture":"https://api.randomuser.me/portraits/men/35.jpg",
     "address":"6670 spring st belen 74391"
   },
   {
@@ -392,7 +392,7 @@
     "firstname":"peter",
     "gender":"male",
     "email":"peter.long69@example.com",
-    "picture":"https://api.randomuser.me/0.2/portraits/men/39.jpg",
+    "picture":"https://api.randomuser.me/portraits/men/39.jpg",
     "address":"2781 nowlin rd red oak 12073"
   },
   {
@@ -403,7 +403,7 @@
     "firstname":"aubrey",
     "gender":"female",
     "email":"aubrey.young59@example.com",
-    "picture":"https://api.randomuser.me/0.2/portraits/women/13.jpg",
+    "picture":"https://api.randomuser.me/portraits/women/13.jpg",
     "address":"1690 w belt line rd rochmond 30569"
   },
   {
@@ -414,7 +414,7 @@
     "firstname":"kathy",
     "gender":"female",
     "email":"kathy.campbell57@example.com",
-    "picture":"https://api.randomuser.me/0.2/portraits/women/24.jpg",
+    "picture":"https://api.randomuser.me/portraits/women/24.jpg",
     "address":"6040 photinia ave salem 41262"
   },
   {
@@ -425,7 +425,7 @@
     "firstname":"nevaeh",
     "gender":"female",
     "email":"nevaeh.davis16@example.com",
-    "picture":"https://api.randomuser.me/0.2/portraits/women/4.jpg",
+    "picture":"https://api.randomuser.me/portraits/women/4.jpg",
     "address":"6236 n stelling rd salt lake city 36220"
   },
   {
@@ -436,7 +436,7 @@
     "firstname":"anthony",
     "gender":"male",
     "email":"anthony.perry67@example.com",
-    "picture":"https://api.randomuser.me/0.2/portraits/men/46.jpg",
+    "picture":"https://api.randomuser.me/portraits/men/46.jpg",
     "address":"2292 oak ridge ln altoona 74234"
   },
   {
@@ -447,7 +447,7 @@
     "firstname":"isaac",
     "gender":"male",
     "email":"isaac.wright29@example.com",
-    "picture":"https://api.randomuser.me/0.2/portraits/men/13.jpg",
+    "picture":"https://api.randomuser.me/portraits/men/13.jpg",
     "address":"4784 e north st tacoma 37116"
   },
   {
@@ -458,7 +458,7 @@
     "firstname":"liam",
     "gender":"male",
     "email":"liam.hall25@example.com",
-    "picture":"https://api.randomuser.me/0.2/portraits/men/36.jpg",
+    "picture":"https://api.randomuser.me/portraits/men/36.jpg",
     "address":"7885 valwood pkwy tacoma 63625"
   },
   {
@@ -469,7 +469,7 @@
     "firstname":"isabella",
     "gender":"female",
     "email":"isabella.mitchelle88@example.com",
-    "picture":"https://api.randomuser.me/0.2/portraits/women/33.jpg",
+    "picture":"https://api.randomuser.me/portraits/women/33.jpg",
     "address":"6694 ash dr frederick 13371"
   },
   {
@@ -480,7 +480,7 @@
     "firstname":"levi",
     "gender":"male",
     "email":"levi.gonzales74@example.com",
-    "picture":"https://api.randomuser.me/0.2/portraits/men/45.jpg",
+    "picture":"https://api.randomuser.me/portraits/men/45.jpg",
     "address":"1261 forest ln lewiston 43293"
   },
   {
@@ -491,7 +491,7 @@
     "firstname":"sarah",
     "gender":"female",
     "email":"sarah.jackson65@example.com",
-    "picture":"https://api.randomuser.me/0.2/portraits/women/7.jpg",
+    "picture":"https://api.randomuser.me/portraits/women/7.jpg",
     "address":"6827 taylor st stockton 77302"
   },
   {
@@ -502,7 +502,7 @@
     "firstname":"evan",
     "gender":"male",
     "email":"evan.perry69@example.com",
-    "picture":"https://api.randomuser.me/0.2/portraits/men/22.jpg",
+    "picture":"https://api.randomuser.me/portraits/men/22.jpg",
     "address":"4345 eason rd aubrey 64656"
   },
   {
@@ -513,7 +513,7 @@
     "firstname":"harold",
     "gender":"male",
     "email":"harold.graham54@example.com",
-    "picture":"https://api.randomuser.me/0.2/portraits/men/21.jpg",
+    "picture":"https://api.randomuser.me/portraits/men/21.jpg",
     "address":"2562 prospect rd sacramento 76127"
   },
   {
@@ -524,7 +524,7 @@
     "firstname":"george",
     "gender":"male",
     "email":"george.rodriquez83@example.com",
-    "picture":"https://api.randomuser.me/0.2/portraits/men/43.jpg",
+    "picture":"https://api.randomuser.me/portraits/men/43.jpg",
     "address":"8382 plum st bernalillo 47378"
   },
   {
@@ -535,7 +535,7 @@
     "firstname":"cameron",
     "gender":"male",
     "email":"cameron.scott69@example.com",
-    "picture":"https://api.randomuser.me/0.2/portraits/men/32.jpg",
+    "picture":"https://api.randomuser.me/portraits/men/32.jpg",
     "address":"7236 walnut hill ln eureka 34972"
   },
   {
@@ -546,7 +546,7 @@
     "firstname":"madison",
     "gender":"female",
     "email":"madison.moore80@example.com",
-    "picture":"https://api.randomuser.me/0.2/portraits/women/32.jpg",
+    "picture":"https://api.randomuser.me/portraits/women/32.jpg",
     "address":"4015 e little york rd shiloh 69658"
   },
   {
@@ -557,7 +557,7 @@
     "firstname":"gabriel",
     "gender":"male",
     "email":"gabriel.sanders85@example.com",
-    "picture":"https://api.randomuser.me/0.2/portraits/men/30.jpg",
+    "picture":"https://api.randomuser.me/portraits/men/30.jpg",
     "address":"2733 white oak dr york 13882"
   },
   {
@@ -568,7 +568,7 @@
     "firstname":"charlotte",
     "gender":"female",
     "email":"charlotte.henderson71@example.com",
-    "picture":"https://api.randomuser.me/0.2/portraits/women/11.jpg",
+    "picture":"https://api.randomuser.me/portraits/women/11.jpg",
     "address":"8144 e center st fountain valley 68292"
   },
   {
@@ -579,7 +579,7 @@
     "firstname":"sebastian",
     "gender":"male",
     "email":"sebastian.ross34@example.com",
-    "picture":"https://api.randomuser.me/0.2/portraits/men/39.jpg",
+    "picture":"https://api.randomuser.me/portraits/men/39.jpg",
     "address":"3799 karen dr albuquerque 30284"
   },
   {
@@ -590,7 +590,7 @@
     "firstname":"george",
     "gender":"male",
     "email":"george.evans13@example.com",
-    "picture":"https://api.randomuser.me/0.2/portraits/men/36.jpg",
+    "picture":"https://api.randomuser.me/portraits/men/36.jpg",
     "address":"8825 wycliff ave addison 16150"
   },
   {
@@ -601,7 +601,7 @@
     "firstname":"kim",
     "gender":"female",
     "email":"kim.clark24@example.com",
-    "picture":"https://api.randomuser.me/0.2/portraits/women/9.jpg",
+    "picture":"https://api.randomuser.me/portraits/women/9.jpg",
     "address":"4274 shady ln dr akron 45515"
   },
   {
@@ -612,7 +612,7 @@
     "firstname":"kristin",
     "gender":"female",
     "email":"kristin.nelson69@example.com",
-    "picture":"https://api.randomuser.me/0.2/portraits/women/12.jpg",
+    "picture":"https://api.randomuser.me/portraits/women/12.jpg",
     "address":"2497 parker rd seattle 14311"
   },
   {
@@ -623,7 +623,7 @@
     "firstname":"rebecca",
     "gender":"female",
     "email":"rebecca.turner94@example.com",
-    "picture":"https://api.randomuser.me/0.2/portraits/women/13.jpg",
+    "picture":"https://api.randomuser.me/portraits/women/13.jpg",
     "address":"3742 green rd wilmington 81707"
   },
   {
@@ -634,7 +634,7 @@
     "firstname":"leah",
     "gender":"female",
     "email":"leah.kelly61@example.com",
-    "picture":"https://api.randomuser.me/0.2/portraits/women/18.jpg",
+    "picture":"https://api.randomuser.me/portraits/women/18.jpg",
     "address":"1242 ash dr toledo 24297"
   },
   {
@@ -645,7 +645,7 @@
     "firstname":"thomas",
     "gender":"male",
     "email":"thomas.harris13@example.com",
-    "picture":"https://api.randomuser.me/0.2/portraits/men/6.jpg",
+    "picture":"https://api.randomuser.me/portraits/men/6.jpg",
     "address":"7701 sunset st fresno 42090"
   },
   {
@@ -656,7 +656,7 @@
     "firstname":"walter",
     "gender":"male",
     "email":"walter.ford33@example.com",
-    "picture":"https://api.randomuser.me/0.2/portraits/men/6.jpg",
+    "picture":"https://api.randomuser.me/portraits/men/6.jpg",
     "address":"5836 cherry st escondido 83210"
   },
   {
@@ -667,7 +667,7 @@
     "firstname":"avery",
     "gender":"female",
     "email":"avery.parker73@example.com",
-    "picture":"https://api.randomuser.me/0.2/portraits/women/7.jpg",
+    "picture":"https://api.randomuser.me/portraits/women/7.jpg",
     "address":"4737 depaul dr yakima 71591"
   },
   {
@@ -678,7 +678,7 @@
     "firstname":"sandra",
     "gender":"female",
     "email":"sandra.cox68@example.com",
-    "picture":"https://api.randomuser.me/0.2/portraits/women/32.jpg",
+    "picture":"https://api.randomuser.me/portraits/women/32.jpg",
     "address":"4320 wycliff ave lewiston 45629"
   },
   {
@@ -689,7 +689,7 @@
     "firstname":"william",
     "gender":"male",
     "email":"william.lee91@example.com",
-    "picture":"https://api.randomuser.me/0.2/portraits/men/39.jpg",
+    "picture":"https://api.randomuser.me/portraits/men/39.jpg",
     "address":"6346 woodland st celina 52937"
   },
   {
@@ -700,7 +700,7 @@
     "firstname":"june",
     "gender":"female",
     "email":"june.foster74@example.com",
-    "picture":"https://api.randomuser.me/0.2/portraits/women/17.jpg",
+    "picture":"https://api.randomuser.me/portraits/women/17.jpg",
     "address":"5834 bruce st vernon 28658"
   },
   {
@@ -711,7 +711,7 @@
     "firstname":"hunter",
     "gender":"male",
     "email":"hunter.lewis54@example.com",
-    "picture":"https://api.randomuser.me/0.2/portraits/men/5.jpg",
+    "picture":"https://api.randomuser.me/portraits/men/5.jpg",
     "address":"7250 royal ln portland 47491"
   },
   {
@@ -722,7 +722,7 @@
     "firstname":"ronald",
     "gender":"male",
     "email":"ronald.howard98@example.com",
-    "picture":"https://api.randomuser.me/0.2/portraits/men/24.jpg",
+    "picture":"https://api.randomuser.me/portraits/men/24.jpg",
     "address":"8126 first street lancaster 48982"
   },
   {
@@ -733,7 +733,7 @@
     "firstname":"peter",
     "gender":"male",
     "email":"peter.evans17@example.com",
-    "picture":"https://api.randomuser.me/0.2/portraits/men/11.jpg",
+    "picture":"https://api.randomuser.me/portraits/men/11.jpg",
     "address":"1497 e little york rd buffalo 35740"
   },
   {
@@ -744,7 +744,7 @@
     "firstname":"landon",
     "gender":"male",
     "email":"landon.scott35@example.com",
-    "picture":"https://api.randomuser.me/0.2/portraits/men/9.jpg",
+    "picture":"https://api.randomuser.me/portraits/men/9.jpg",
     "address":"2418 prospect rd carrollton 61528"
   },
   {
@@ -755,7 +755,7 @@
     "firstname":"linda",
     "gender":"female",
     "email":"linda.ward84@example.com",
-    "picture":"https://api.randomuser.me/0.2/portraits/women/30.jpg",
+    "picture":"https://api.randomuser.me/portraits/women/30.jpg",
     "address":"2911 harrison ct richardson 50760"
   },
   {
@@ -766,7 +766,7 @@
     "firstname":"aiden",
     "gender":"male",
     "email":"aiden.thompson91@example.com",
-    "picture":"https://api.randomuser.me/0.2/portraits/men/31.jpg",
+    "picture":"https://api.randomuser.me/portraits/men/31.jpg",
     "address":"8170 lovers ln boise 60466"
   },
   {
@@ -777,7 +777,7 @@
     "firstname":"scarlett",
     "gender":"female",
     "email":"scarlett.cook25@example.com",
-    "picture":"https://api.randomuser.me/0.2/portraits/women/20.jpg",
+    "picture":"https://api.randomuser.me/portraits/women/20.jpg",
     "address":"4396 karen dr long beach 50213"
   },
   {
@@ -788,7 +788,7 @@
     "firstname":"arthur",
     "gender":"male",
     "email":"arthur.green67@example.com",
-    "picture":"https://api.randomuser.me/0.2/portraits/men/22.jpg",
+    "picture":"https://api.randomuser.me/portraits/men/22.jpg",
     "address":"1969 central st long beach 26083"
   },
   {
@@ -799,7 +799,7 @@
     "firstname":"peyton",
     "gender":"female",
     "email":"peyton.gray70@example.com",
-    "picture":"https://api.randomuser.me/0.2/portraits/women/19.jpg",
+    "picture":"https://api.randomuser.me/portraits/women/19.jpg",
     "address":"7148 w sherman dr waxahachie 84174"
   },
   {
@@ -810,7 +810,7 @@
     "firstname":"kaylee",
     "gender":"female",
     "email":"kaylee.clark12@example.com",
-    "picture":"https://api.randomuser.me/0.2/portraits/women/20.jpg",
+    "picture":"https://api.randomuser.me/portraits/women/20.jpg",
     "address":"4387 groveland terrace lewiston 43101"
   },
   {
@@ -821,7 +821,7 @@
     "firstname":"ava",
     "gender":"female",
     "email":"ava.gray70@example.com",
-    "picture":"https://api.randomuser.me/0.2/portraits/women/11.jpg",
+    "picture":"https://api.randomuser.me/portraits/women/11.jpg",
     "address":"1252 w belt line rd edgewood 71425"
   },
   {
@@ -832,7 +832,7 @@
     "firstname":"landon",
     "gender":"male",
     "email":"landon.coleman20@example.com",
-    "picture":"https://api.randomuser.me/0.2/portraits/men/17.jpg",
+    "picture":"https://api.randomuser.me/portraits/men/17.jpg",
     "address":"7305 elgin st fort collins 74777"
   },
   {
@@ -843,7 +843,7 @@
     "firstname":"jennifer",
     "gender":"female",
     "email":"jennifer.patterson70@example.com",
-    "picture":"https://api.randomuser.me/0.2/portraits/women/29.jpg",
+    "picture":"https://api.randomuser.me/portraits/women/29.jpg",
     "address":"5649 w pecan st charlotte 73247"
   },
   {
@@ -854,7 +854,7 @@
     "firstname":"mason",
     "gender":"male",
     "email":"mason.jenkins96@example.com",
-    "picture":"https://api.randomuser.me/0.2/portraits/men/15.jpg",
+    "picture":"https://api.randomuser.me/portraits/men/15.jpg",
     "address":"2269 mockingbird hill plano 38104"
   },
   {
@@ -865,7 +865,7 @@
     "firstname":"serenity",
     "gender":"female",
     "email":"serenity.moore43@example.com",
-    "picture":"https://api.randomuser.me/0.2/portraits/women/6.jpg",
+    "picture":"https://api.randomuser.me/portraits/women/6.jpg",
     "address":"4872 smokey ln hamsburg 65324"
   },
   {
@@ -876,7 +876,7 @@
     "firstname":"jordan",
     "gender":"male",
     "email":"jordan.diaz41@example.com",
-    "picture":"https://api.randomuser.me/0.2/portraits/men/35.jpg",
+    "picture":"https://api.randomuser.me/portraits/men/35.jpg",
     "address":"3113 valley view ln forney 57506"
   },
   {
@@ -887,7 +887,7 @@
     "firstname":"jayden",
     "gender":"male",
     "email":"jayden.hamilton45@example.com",
-    "picture":"https://api.randomuser.me/0.2/portraits/men/21.jpg",
+    "picture":"https://api.randomuser.me/portraits/men/21.jpg",
     "address":"6478 fairview st farmers branch 75389"
   },
   {
@@ -898,7 +898,7 @@
     "firstname":"albert",
     "gender":"male",
     "email":"albert.kuhn43@example.com",
-    "picture":"https://api.randomuser.me/0.2/portraits/men/10.jpg",
+    "picture":"https://api.randomuser.me/portraits/men/10.jpg",
     "address":"3513 taylor st altoona 16470"
   },
   {
@@ -909,7 +909,7 @@
     "firstname":"ashley",
     "gender":"female",
     "email":"ashley.myers44@example.com",
-    "picture":"https://api.randomuser.me/0.2/portraits/women/23.jpg",
+    "picture":"https://api.randomuser.me/portraits/women/23.jpg",
     "address":"6590 n stelling rd denver 24383"
   },
   {
@@ -920,7 +920,7 @@
     "firstname":"aiden",
     "gender":"male",
     "email":"aiden.kuhn80@example.com",
-    "picture":"https://api.randomuser.me/0.2/portraits/men/29.jpg",
+    "picture":"https://api.randomuser.me/portraits/men/29.jpg",
     "address":"4813 bollinger rd seagoville 60924"
   },
   {
@@ -931,7 +931,7 @@
     "firstname":"candice",
     "gender":"female",
     "email":"candice.jones60@example.com",
-    "picture":"https://api.randomuser.me/0.2/portraits/women/21.jpg",
+    "picture":"https://api.randomuser.me/portraits/women/21.jpg",
     "address":"1264 brown terrace cleveland 76693"
   },
   {
@@ -942,7 +942,7 @@
     "firstname":"dylan",
     "gender":"male",
     "email":"dylan.griffin22@example.com",
-    "picture":"https://api.randomuser.me/0.2/portraits/men/30.jpg",
+    "picture":"https://api.randomuser.me/portraits/men/30.jpg",
     "address":"8010 blossom hill rd york 42671"
   },
   {
@@ -953,7 +953,7 @@
     "firstname":"jessica",
     "gender":"female",
     "email":"jessica.allen64@example.com",
-    "picture":"https://api.randomuser.me/0.2/portraits/women/6.jpg",
+    "picture":"https://api.randomuser.me/portraits/women/6.jpg",
     "address":"5574 spring st lancaster 44500"
   },
   {
@@ -964,7 +964,7 @@
     "firstname":"brooklyn",
     "gender":"female",
     "email":"brooklyn.evans37@example.com",
-    "picture":"https://api.randomuser.me/0.2/portraits/women/17.jpg",
+    "picture":"https://api.randomuser.me/portraits/women/17.jpg",
     "address":"4132 ash dr roseburg 50071"
   },
   {
@@ -975,7 +975,7 @@
     "firstname":"jack",
     "gender":"male",
     "email":"jack.johnson47@example.com",
-    "picture":"https://api.randomuser.me/0.2/portraits/men/8.jpg",
+    "picture":"https://api.randomuser.me/portraits/men/8.jpg",
     "address":"5337 hamilton ave providence 56747"
   },
   {
@@ -986,7 +986,7 @@
     "firstname":"levi",
     "gender":"male",
     "email":"levi.rivera63@example.com",
-    "picture":"https://api.randomuser.me/0.2/portraits/men/20.jpg",
+    "picture":"https://api.randomuser.me/portraits/men/20.jpg",
     "address":"6549 fincher rd nampa 56842"
   },
   {
@@ -997,7 +997,7 @@
     "firstname":"chloe",
     "gender":"female",
     "email":"chloe.alexander85@example.com",
-    "picture":"https://api.randomuser.me/0.2/portraits/women/18.jpg",
+    "picture":"https://api.randomuser.me/portraits/women/18.jpg",
     "address":"4376 wheeler ridge dr princeton 57200"
   },
   {
@@ -1008,7 +1008,7 @@
     "firstname":"brooklyn",
     "gender":"female",
     "email":"brooklyn.thomas12@example.com",
-    "picture":"https://api.randomuser.me/0.2/portraits/women/30.jpg",
+    "picture":"https://api.randomuser.me/portraits/women/30.jpg",
     "address":"1672 lakeview st stanley 47533"
   },
   {
@@ -1019,7 +1019,7 @@
     "firstname":"noah",
     "gender":"male",
     "email":"noah.parker98@example.com",
-    "picture":"https://api.randomuser.me/0.2/portraits/men/31.jpg",
+    "picture":"https://api.randomuser.me/portraits/men/31.jpg",
     "address":"4128 mockingbird hill altoona 68156"
   },
   {
@@ -1030,7 +1030,7 @@
     "firstname":"grace",
     "gender":"female",
     "email":"grace.scott91@example.com",
-    "picture":"https://api.randomuser.me/0.2/portraits/women/20.jpg",
+    "picture":"https://api.randomuser.me/portraits/women/20.jpg",
     "address":"3534 e sandy lake rd shiloh 71489"
   },
   {
@@ -1041,7 +1041,7 @@
     "firstname":"carl",
     "gender":"male",
     "email":"carl.reed98@example.com",
-    "picture":"https://api.randomuser.me/0.2/portraits/men/0.jpg",
+    "picture":"https://api.randomuser.me/portraits/men/0.jpg",
     "address":"1964 lakeshore rd albuquerque 84622"
   },
   {
@@ -1052,7 +1052,7 @@
     "firstname":"thomas",
     "gender":"male",
     "email":"thomas.gonzales30@example.com",
-    "picture":"https://api.randomuser.me/0.2/portraits/men/48.jpg",
+    "picture":"https://api.randomuser.me/portraits/men/48.jpg",
     "address":"8799 e pecan st albuquerque 24923"
   },
   {
@@ -1063,7 +1063,7 @@
     "firstname":"sophie",
     "gender":"female",
     "email":"sophie.thompson36@example.com",
-    "picture":"https://api.randomuser.me/0.2/portraits/women/23.jpg",
+    "picture":"https://api.randomuser.me/portraits/women/23.jpg",
     "address":"8740 w dallas st evansville 10379"
   },
   {
@@ -1074,7 +1074,7 @@
     "firstname":"jessica",
     "gender":"female",
     "email":"jessica.myers84@example.com",
-    "picture":"https://api.randomuser.me/0.2/portraits/women/21.jpg",
+    "picture":"https://api.randomuser.me/portraits/women/21.jpg",
     "address":"7363 country club rd columbus 30408"
   },
   {
@@ -1085,7 +1085,7 @@
     "firstname":"addison",
     "gender":"female",
     "email":"addison.thomas52@example.com",
-    "picture":"https://api.randomuser.me/0.2/portraits/women/0.jpg",
+    "picture":"https://api.randomuser.me/portraits/women/0.jpg",
     "address":"1965 plum st dumas 36860"
   },
   {
@@ -1096,7 +1096,7 @@
     "firstname":"harold",
     "gender":"male",
     "email":"harold.hamilton82@example.com",
-    "picture":"https://api.randomuser.me/0.2/portraits/men/12.jpg",
+    "picture":"https://api.randomuser.me/portraits/men/12.jpg",
     "address":"6791 samaritan dr greensboro 20141"
   }
 ]
