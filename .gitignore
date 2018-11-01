@@ -1,0 +1,6 @@
+/.idea
+!/var/.gitkeep
+/var
+/vendor
+phpunit.xml
+infection.json

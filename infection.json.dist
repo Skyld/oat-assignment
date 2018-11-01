@@ -1,0 +1,15 @@
+{
+  "source": {
+    "directories": [
+      "src"
+    ]
+  },
+  "timeout": 10,
+  "logs": {
+    "text": "var/infection/infection.log",
+    "summary": "var/infection/summary.log",
+    "debug": "var/infection/debug.log",
+    "perMutator": "var/infection/per-mutator.md"
+  },
+  "tmpDir": "var/"
+}

@@ -1,0 +1,36 @@
+{
+  "name": "skyld/oat-assignment",
+  "description": "OAT assignment",
+  "keywords": [
+    "oat",
+    "assignment"
+  ],
+  "require": {
+    "php": ">=7.2.0",
+    "slim/slim": "^3.1",
+    "php-di/slim-bridge": "^2.0",
+    "league/flysystem": "^1.0",
+    "league/fractal": "^0.17.0",
+    "respect/validation": "^1.1"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^7.4",
+    "infection/infection": "^0.10",
+    "league/flysystem-memory": "^1.0",
+    "fzaninotto/faker": "^1.8"
+  },
+  "autoload": {
+    "psr-4": {
+      "Skyld\\OatAssignment\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Skyld\\OatAssignment\\Tests\\": "tests/"
+    }
+  },
+  "scripts": {
+    "start": "php -S localhost:8080 -t public",
+    "test": "phpunit"
+  }
+}

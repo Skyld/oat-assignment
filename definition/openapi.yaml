@@ -1,0 +1,182 @@
+openapi: "3.0.0"
+info:
+    version: 1.0.0
+    title: OAT User API
+    description: Open Assessment Technologies S.A. - User API
+    contact:
+        name: Daniel Halasz
+        email: daniel.halaasz@gmail.com
+servers:
+- url: http://localhost:8080
+paths:
+    '/users':
+        get:
+            tags:
+            - User
+            description: Returns list of users, paginated.
+            operationId: listUsers
+            parameters:
+            - $ref: '#/components/parameters/OffsetParameter'
+            - $ref: '#/components/parameters/LimitParameter'
+            - $ref: '#/components/parameters/SearchParameter'
+            responses:
+                '200':
+                    description: Successful response.
+                    content:
+                        application/json:
+                            schema:
+                                $ref: '#/components/responses/UserListResponse'
+                '400':
+                    description: Request validation error response.
+                    content:
+                        application/json:
+                            schema:
+                                $ref: '#/components/responses/BadRequestErrorResponse'
+                '500':
+                    description: Internal server error response.
+                    content:
+                        application/json:
+                            schema:
+                                $ref: '#/components/responses/InternalServerErrorResponse'
+    '/users/{id}':
+        get:
+            tags:
+            - User
+            description: Returns a user by unique identifier.
+            operationId: getUser
+            parameters:
+            - $ref: '#/components/parameters/UserIdParameter'
+            responses:
+                '200':
+                    description: Successful response.
+                    content:
+                        application/json:
+                            schema:
+                                $ref: '#/components/responses/UserResponse'
+                '404':
+                    description: User not found response.
+                    content:
+                        application/json:
+                            schema:
+                                $ref: '#/components/responses/NotFoundErrorResponse'
+                '500':
+                    description: Internal server error response.
+                    content:
+                        application/json:
+                            schema:
+                                $ref: '#/components/responses/InternalServerErrorResponse'
+components:
+    parameters:
+        OffsetParameter:
+            in: query
+            name: offset
+            schema:
+                type: integer
+                format: int64
+                minimum: 0
+            required: false
+            example: 0
+            description: The number of items to skip before starting to collect the result set.
+        LimitParameter:
+            in: query
+            name: limit
+            required: false
+            example: 20
+            description: The numbers of items to return.
+            schema:
+                type: integer
+                format: int64
+                minimum: 1
+                maximum: 100
+                default: 10
+        SearchParameter:
+            in: query
+            name: 'search'
+            description: To filter the list by login name.
+            required: false
+            schema:
+                type: string
+        UserIdParameter:
+            in: path
+            name: id
+            required: true
+            example: "fosterabigail"
+            description: Unique user identifier
+            schema:
+                type: string
+    responses:
+        UserListResponse:
+            description: User list response.
+            type: "array"
+            items:
+                $ref: "#/components/responses/UserResponse"
+        UserResponse:
+            $ref: "#/components/schemas/User"
+        BadRequestErrorResponse:
+            description: Request validation error
+            content:
+                application/json:
+                    schema:
+                        $ref: '#/components/schemas/Error'
+        NotFoundErrorResponse:
+            description: Resource not found error
+            content:
+                application/json:
+                    schema:
+                        $ref: '#/components/schemas/Error'
+        InternalServerErrorResponse:
+            description: Internal server error
+            content:
+                application/json:
+                    schema:
+                        $ref: '#/components/schemas/Error'
+    schemas:
+        User:
+            type: object
+            properties:
+                login:
+                    type: string
+                    description: "Unique identifier of the user."
+                    example: "fosterabigail"
+                    nullable: false
+                title:
+                    type: string
+                    description: "Title of the user."
+                    example: "mrs"
+                    nullable: false
+                firstname:
+                    type: string
+                    description: "First name of the user."
+                    example: "abigail"
+                    nullable: false
+                lastname:
+                    type: string
+                    description: "Last name of the user."
+                    example: "foster"
+                    nullable: false
+                gender:
+                    type: string
+                    enum: ['male', 'female']
+                    description: "Gender of the user."
+                    example: "female"
+                email:
+                    type: string
+                    description: "Email address of the user."
+                    example: "abigail.foster@example.com"
+                    nullable: false
+                picture:
+                    type: string
+                    description: "Profile picture url of the user."
+                    example: "https://api.randomuser.me/0.2/portraits/women/10.jpg"
+                    nullable: false
+                address:
+                    type: string
+                    description: "Address of the user."
+                    example: "1851 saddle dr anna 69319"
+                    nullable: false
+        Error:
+            type: object
+            properties:
+                error:
+                    type: string
+                    description: The message of the exception.
