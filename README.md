@@ -60,7 +60,7 @@ $ vendor/bin/infection
 
 Key features:
 
-- **Slim 3** framework ith **PHP-DI** bridge.
+- **Slim 3** framework with **PHP-DI** bridge.
 - Flexible filesystem based data source handling with **League/FlySystem** library.
 - Powerful request validation with **Respect/Validation** library.
 - Separated response transformation layer with **League/Fractal** library.
