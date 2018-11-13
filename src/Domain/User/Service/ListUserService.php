@@ -23,7 +23,7 @@ class ListUserService
         $collection = $this->repository->findAll();
 
         if (!empty($searchTerm)) {
-            $this->applySearchTerm($collection, $searchTerm);
+            $collection = $this->applySearchTerm($collection, $searchTerm);
         }
 
         return $collection
@@ -31,13 +31,16 @@ class ListUserService
             ->setLimit(empty($limit) ? self::DEFAULT_LIMIT : $limit);
     }
 
-    private function applySearchTerm(UserCollection $collection, string $searchTerm): void
+    private function applySearchTerm(UserCollection $collection, string $searchTerm): UserCollection
     {
+        $filteredCollection = new UserCollection();
         /** @var User $user */
         foreach ($collection as $user) {
-            if (strpos($user->getLogin(), $searchTerm) === false) {
-                $collection->remove($user);
+            if (strpos($user->getLogin(), $searchTerm) !== false) {
+                $filteredCollection->add($user);
             }
         }
+
+        return $filteredCollection;
     }
 }

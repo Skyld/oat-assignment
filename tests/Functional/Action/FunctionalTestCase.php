@@ -87,7 +87,6 @@ class FunctionalTestCase extends TestCase
 
     protected function createUserFixture(string $login = null): User
     {
-
         $fixture = new User(
             $login ?? $this->faker->unique()->userName,
             $this->faker->password,

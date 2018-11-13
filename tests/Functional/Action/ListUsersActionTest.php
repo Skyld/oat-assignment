@@ -37,6 +37,29 @@ class ListUsersActionTest extends FunctionalTestCase
         ], $this->getResponseBody($response));
     }
 
+    public function testItCanApplySearchTerm(): void
+    {
+        $expectedFixture = $this->createUserFixture('johnDoe');
+        $this->createUserFixture('janeDoe');
+
+        $response = $this->runApp('GET', '/users?search=johnDoe');
+
+        $this->assertEquals(200, $response->getStatusCode());
+
+        $this->assertEquals([
+            [
+                'login' => 'johnDoe',
+                'title'=> ucfirst($expectedFixture->getTitle()),
+                'firstname'=> ucfirst($expectedFixture->getFirstname()),
+                'lastname'=> ucfirst($expectedFixture->getLastname()),
+                'gender'=> $expectedFixture->getGender(),
+                'email'=> $expectedFixture->getEmail(),
+                'picture'=> $expectedFixture->getPicture(),
+                'address'=> $expectedFixture->getAddress()
+            ],
+        ], $this->getResponseBody($response));
+    }
+
     public function testItThrowsBadRequestExceptionIfOffsetParameterIsNonNumeric(): void
     {
         $response = $this->runApp('GET', '/users?offset=invalid');

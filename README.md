@@ -43,7 +43,7 @@ $ vendor/bin/phpunit --coverage-html var/coverage
 
 To see coverage report with excluded functional tests:
 ```
-vendor/bin/phpunit --testsuite Unit,Integration  --coverage-html var/coverage
+vendor/bin/phpunit --testsuite Unit,Integration --coverage-html var/coverage
 ```
 
 To run mutation test suite:
